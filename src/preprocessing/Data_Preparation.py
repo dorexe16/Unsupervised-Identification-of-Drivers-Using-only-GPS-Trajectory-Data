@@ -2,8 +2,7 @@
 
 # 57 Features described in word.
 
-from Library import *
-from tqdm import tqdm
+from src.Library import *
 import numpy as np
 
 PATH_raw_data = '/data/inputs/Year_Data'
