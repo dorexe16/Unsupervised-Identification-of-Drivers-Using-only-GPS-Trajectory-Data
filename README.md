@@ -11,7 +11,7 @@ This project focuses on driver identification using only GPS trajectory data. Un
 - **Clustering & Outlier Detection**: DBSCAN and Spectral Clustering techniques to identify meaningful driver groups.
 - **Scaling & Normalization**: Removing environmental bias by considering road speed limits and traffic conditions.
 - **Experimentation & Analysis**: Evaluating different clustering strategies and feature representations.
-
+![alt text](image.png)
 ## Important Clarification
 This project **is not focused on active learning**. While active learning is explored in some experiments, the core purpose of this research is to **identify drivers using GPS data through feature engineering, transformation, and clustering techniques**. The active learning component is secondary and used to refine predictions in some cases but is not the primary research goal.
 
