@@ -1,0 +1,8 @@
+Car: 444040.pkl
+Best Spectral Clustering silhouette = 0.052, best K = 2
+Group 97 (Em Hamoshavot hadasha): Cluster 0
+Group 98 (Circle Road): Cluster 0
+Group 99 (Mahane Yehuda): Cluster 0
+Group 100 (Kiryat Aryeh Industrial Zone): Cluster 0
+Group 101 (Yaaf): Cluster 0
+Group 102 (Ostashinsky): Cluster 1

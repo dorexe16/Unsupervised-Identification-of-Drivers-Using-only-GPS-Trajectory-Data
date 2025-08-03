@@ -1,0 +1,11 @@
+Car: 493989.pkl
+Best Spectral Clustering silhouette = 0.048, best K = 2
+Group 196 (Rova 16): Cluster 1
+Group 197 (Kiryat Aryeh Industrial Zone): Cluster 0
+Group 198 (Rova 2): Cluster 0
+Group 199 (Peres Campus): Cluster 0
+Group 200 (Hoter): Cluster 0
+Group 201 (Peker): Cluster 1
+Group 202 (unnamed road): Cluster 0
+Group 203 (Rova 4): Cluster 1
+Group 204 (Ramat Siv Industrial Zone): Cluster 0

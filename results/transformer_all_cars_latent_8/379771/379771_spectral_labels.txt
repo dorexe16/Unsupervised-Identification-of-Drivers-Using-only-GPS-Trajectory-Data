@@ -1,0 +1,7 @@
+Car: 379771.pkl
+Best Spectral Clustering silhouette = 0.022, best K = 2
+Group 7 (Citi): Cluster 0
+Group 8 (2004): Cluster 0
+Group 9 (Shikun Ovdim): Cluster 0
+Group 10 (Kiryat Etgarim): Cluster 0
+Group 11 (Neve Zeev): Cluster 1

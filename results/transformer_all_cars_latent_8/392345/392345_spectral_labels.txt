@@ -1,0 +1,5 @@
+Car: 392345.pkl
+Best Spectral Clustering silhouette = 0.015, best K = 2
+Group 30 (Magdiel): Cluster 0
+Group 31 (Kiryat Hasharon): Cluster 1
+Group 32 (Beer Ganim): Cluster 1

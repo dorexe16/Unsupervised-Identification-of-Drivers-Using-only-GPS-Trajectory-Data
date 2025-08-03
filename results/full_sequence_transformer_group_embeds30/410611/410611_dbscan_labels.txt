@@ -1,0 +1,7 @@
+Car: 410611.pkl
+Best DBSCAN silhouette = 0.735, eps=0.3, min_samples=2
+Group 53 (Hachmei Israel): Cluster 0
+Group 54 (Hachmei Yisra'el): Cluster 1
+Group 55 (Arava): Cluster 0
+Group 56 (Shivat HaMinim): Cluster 1
+Group 57 (Sderot Jerusalem): Cluster 1

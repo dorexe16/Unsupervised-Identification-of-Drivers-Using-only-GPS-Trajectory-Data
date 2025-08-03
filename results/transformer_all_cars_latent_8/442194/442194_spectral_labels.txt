@@ -1,0 +1,12 @@
+Car: 442194.pkl
+Best Spectral Clustering silhouette = 0.083, best K = 2
+Group 88 (Ramat Golda): Cluster 0
+Group 89 (Schemen beach Industrial): Cluster 0
+Group 90 (Yizraeliya): Cluster 1
+Group 91 (Kiriyat Volfson): Cluster 1
+Group 92 (HaParpar): Cluster 1
+Group 93 (Afeka): Cluster 0
+Group 94 (Kiryat Nordau): Cluster 0
+Group 95 (Tel Hanan Industrial Area): Cluster 1
+Group 96 (Ramat HaNasi): Cluster 1
+Group 97 (Em Hamoshavot hadasha): Cluster 0

@@ -1,0 +1,5 @@
+Car: 493992.pkl
+Best Spectral Clustering silhouette = 0.031, best K = 2
+Group 204 (Ramat Siv Industrial Zone): Cluster 1
+Group 205 (Eli'ezer): Cluster 0
+Group 206 (Kiryat Mikha): Cluster 1

@@ -1,0 +1,5 @@
+Car: 448174.pkl
+Best Spectral Clustering silhouette = 0.023, best K = 2
+Group 107 (Ramat Siv Industrial Zone): Cluster 1
+Group 108 (Ramot Menachem): Cluster 0
+Group 109 (Holyland-Park): Cluster 0

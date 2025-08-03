@@ -1,0 +1,10 @@
+Car: 472667.pkl
+Best Spectral Clustering silhouette = 0.059, best K = 2
+Group 159 (Shchuna E): Cluster 1
+Group 160 (Hey): Cluster 0
+Group 161 (Tet): Cluster 1
+Group 162 (Ramot B): Cluster 1
+Group 163 (D): Cluster 0
+Group 164 (City Center): Cluster 0
+Group 165 (Neve Noy): Cluster 1
+Group 166 (Ramat Aviv haHadasha): Cluster 0

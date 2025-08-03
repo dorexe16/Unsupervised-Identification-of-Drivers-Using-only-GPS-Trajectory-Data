@@ -1,0 +1,8 @@
+Car: 472233.pkl
+Best Spectral Clustering silhouette = 0.098, best K = 2
+Group 146 (Sarona Gardens): Cluster 0
+Group 147 (Shmaiah): Cluster 1
+Group 148 (Neot Shikma): Cluster 1
+Group 149 (Ne'ot Ariel Sharon): Cluster 1
+Group 150 (Rambam): Cluster 1
+Group 151 (Neve Yitzhak Rabin): Cluster 0

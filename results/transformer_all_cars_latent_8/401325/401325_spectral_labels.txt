@@ -1,0 +1,7 @@
+Car: 401325.pkl
+Best Spectral Clustering silhouette = 0.042, best K = 2
+Group 35 (Yemin Moshe): Cluster 0
+Group 36 (Holyland-Park): Cluster 1
+Group 37 (Talpiot): Cluster 0
+Group 38 (unnamed road): Cluster 1
+Group 39 (Emek Sarah Industrial zone): Cluster 1

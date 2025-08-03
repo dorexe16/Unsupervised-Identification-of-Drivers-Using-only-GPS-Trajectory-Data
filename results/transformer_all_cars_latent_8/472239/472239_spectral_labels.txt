@@ -1,0 +1,9 @@
+Car: 472239.pkl
+Best Spectral Clustering silhouette = 0.048, best K = 2
+Group 151 (Neve Yitzhak Rabin): Cluster 0
+Group 152 (Kiryat Aryeh Industrial Zone): Cluster 0
+Group 153 (Shikun Vatikim): Cluster 0
+Group 154 (Ein Sarah HaVatika): Cluster 1
+Group 155 (Ramot Menachem): Cluster 0
+Group 156 (Ramatayim): Cluster 0
+Group 157 (Ne'ot Ariel Sharon): Cluster 0

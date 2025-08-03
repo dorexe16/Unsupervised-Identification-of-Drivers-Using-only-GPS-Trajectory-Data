@@ -1,0 +1,7 @@
+Car: 410611.pkl
+Best Spectral Clustering silhouette = 0.074, best K = 2
+Group 54 (Hachmei Israel): Cluster 0
+Group 55 (Hachmei Yisra'el): Cluster 1
+Group 56 (Arava): Cluster 1
+Group 57 (Shivat HaMinim): Cluster 1
+Group 58 (Sderot Jerusalem): Cluster 1

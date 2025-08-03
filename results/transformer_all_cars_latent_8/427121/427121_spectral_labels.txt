@@ -1,0 +1,9 @@
+Car: 427121.pkl
+Best Spectral Clustering silhouette = 0.112, best K = 2
+Group 72 (Rambam): Cluster 0
+Group 73 (Rova HaKirya): Cluster 1
+Group 74 (Rishonim): Cluster 0
+Group 75 (Ramat Eliyahu): Cluster 1
+Group 76 (Kiryat Rishon): Cluster 1
+Group 77 (Neve Hof): Cluster 1
+Group 78 (Industrial Zone B): Cluster 0

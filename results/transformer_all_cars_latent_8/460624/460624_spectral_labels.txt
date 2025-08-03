@@ -1,0 +1,7 @@
+Car: 460624.pkl
+Best Spectral Clustering silhouette = 0.047, best K = 2
+Group 132 (3553): Cluster 0
+Group 133 (unnamed road): Cluster 0
+Group 134 (Shibolim): Cluster 1
+Group 135 (Yigal Alon): Cluster 1
+Group 136 (Ramot): Cluster 0

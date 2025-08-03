@@ -1,0 +1,6 @@
+Car: 488730.pkl
+Best Spectral Clustering silhouette = 0.024, best K = 2
+Group 193 (unnamed road): Cluster 0
+Group 194 (Kiryat Matalon): Cluster 1
+Group 195 (Aliot): Cluster 1
+Group 196 (Rova 16): Cluster 1

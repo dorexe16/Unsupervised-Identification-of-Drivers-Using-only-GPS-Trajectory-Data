@@ -1,0 +1,5 @@
+Car: 485783.pkl
+Best Spectral Clustering silhouette = 0.080, best K = 2
+Group 174 (Qiryat Eitanim): Cluster 0
+Group 175 (Nahalat Yizhaq): Cluster 0
+Group 176 (Industrial Zone A): Cluster 0

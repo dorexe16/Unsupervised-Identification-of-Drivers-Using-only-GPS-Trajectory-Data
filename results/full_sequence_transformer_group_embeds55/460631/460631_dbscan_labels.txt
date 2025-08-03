@@ -1,0 +1,9 @@
+Car: 460631.pkl
+Best DBSCAN silhouette = 0.253, eps=0.7, min_samples=2
+Group 0 (Group_0): Cluster -1
+Group 1 (Group_1): Cluster 0
+Group 2 (Group_2): Cluster 1
+Group 3 (Group_3): Cluster 1
+Group 4 (Group_4): Cluster 1
+Group 5 (Group_5): Cluster -1
+Group 6 (Group_6): Cluster 0

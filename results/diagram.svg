@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="260" viewBox="0 0 1920 260">
+<defs>
+<marker id="arrowhead" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">  <polygon points="0 0, 10 3.5, 0 7" fill="#444" /></marker>
+<filter id="shadow" x="-10%" y="-10%" width="130%" height="130%">  <feDropShadow dx="0" dy="2" stdDeviation="3" flood-opacity="0.25"/></filter>
+<linearGradient id="grad_pre" x1="0%" y1="0%" x2="100%" y2="100%">  <stop offset="0%" stop-color="#92DFF3"/>  <stop offset="100%" stop-color="#C8F2FF"/></linearGradient>
+<linearGradient id="grad_repr" x1="0%" y1="0%" x2="100%" y2="100%">  <stop offset="0%" stop-color="#FFDDAA"/>  <stop offset="100%" stop-color="#FFF3E1"/></linearGradient>
+<linearGradient id="grad_out" x1="0%" y1="0%" x2="100%" y2="100%">  <stop offset="0%" stop-color="#B7F2C4"/>  <stop offset="100%" stop-color="#E4FFE8"/></linearGradient>
+</defs>
+<style> text { font-family: "Segoe UI", Arial, sans-serif; } </style>
+<rect x="40" y="80" width="220" height="100" rx="18" ry="18" fill="url(#grad_pre)" stroke="#333" stroke-width="2" filter="url(#shadow)" />
+<text x="150.0" y="115.0" font-size="32" text-anchor="middle" dominant-baseline="middle">GT</text>
+<text x="150.0" y="152.0" font-size="16" text-anchor="middle" dominant-baseline="middle">GPS Trips</text>
+<line x1="260" y1="130.0" x2="310" y2="130.0" stroke="#444" stroke-width="3" marker-end="url(#arrowhead)"/>
+<rect x="310" y="80" width="220" height="100" rx="18" ry="18" fill="url(#grad_pre)" stroke="#333" stroke-width="2" filter="url(#shadow)" />
+<text x="420.0" y="115.0" font-size="32" text-anchor="middle" dominant-baseline="middle">SC</text>
+<text x="420.0" y="152.0" font-size="16" text-anchor="middle" dominant-baseline="middle">Seg-&-Clean</text>
+<line x1="530" y1="130.0" x2="580" y2="130.0" stroke="#444" stroke-width="3" marker-end="url(#arrowhead)"/>
+<rect x="580" y="80" width="220" height="100" rx="18" ry="18" fill="url(#grad_pre)" stroke="#333" stroke-width="2" filter="url(#shadow)" />
+<text x="690.0" y="115.0" font-size="32" text-anchor="middle" dominant-baseline="middle">CS</text>
+<text x="690.0" y="152.0" font-size="16" text-anchor="middle" dominant-baseline="middle">Context Scale</text>
+<line x1="800" y1="130.0" x2="850" y2="130.0" stroke="#444" stroke-width="3" marker-end="url(#arrowhead)"/>
+<rect x="850" y="80" width="220" height="100" rx="18" ry="18" fill="url(#grad_repr)" stroke="#333" stroke-width="2" filter="url(#shadow)" />
+<text x="960.0" y="115.0" font-size="32" text-anchor="middle" dominant-baseline="middle">PG</text>
+<text x="960.0" y="152.0" font-size="16" text-anchor="middle" dominant-baseline="middle">Pattern Group</text>
+<line x1="1070" y1="130.0" x2="1120" y2="130.0" stroke="#444" stroke-width="3" marker-end="url(#arrowhead)"/>
+<rect x="1120" y="80" width="220" height="100" rx="18" ry="18" fill="url(#grad_repr)" stroke="#333" stroke-width="2" filter="url(#shadow)" />
+<text x="1230.0" y="115.0" font-size="32" text-anchor="middle" dominant-baseline="middle">FB</text>
+<text x="1230.0" y="152.0" font-size="16" text-anchor="middle" dominant-baseline="middle">Feature Bag</text>
+<line x1="1340" y1="130.0" x2="1390" y2="130.0" stroke="#444" stroke-width="3" marker-end="url(#arrowhead)"/>
+<rect x="1390" y="80" width="220" height="100" rx="18" ry="18" fill="url(#grad_repr)" stroke="#333" stroke-width="2" filter="url(#shadow)" />
+<text x="1500.0" y="115.0" font-size="32" text-anchor="middle" dominant-baseline="middle">PC</text>
+<text x="1500.0" y="152.0" font-size="16" text-anchor="middle" dominant-baseline="middle">PCA + Cluster</text>
+<line x1="1610" y1="130.0" x2="1660" y2="130.0" stroke="#444" stroke-width="3" marker-end="url(#arrowhead)"/>
+<rect x="1660" y="80" width="220" height="100" rx="18" ry="18" fill="url(#grad_out)" stroke="#333" stroke-width="2" filter="url(#shadow)" />
+<text x="1770.0" y="115.0" font-size="32" text-anchor="middle" dominant-baseline="middle">PL</text>
+<text x="1770.0" y="152.0" font-size="16" text-anchor="middle" dominant-baseline="middle">Pseudo-Labels</text>
+</svg>

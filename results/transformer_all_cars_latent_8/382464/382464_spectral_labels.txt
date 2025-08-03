@@ -1,0 +1,7 @@
+Car: 382464.pkl
+Best Spectral Clustering silhouette = 0.057, best K = 2
+Group 11 (Neve Zeev): Cluster 0
+Group 12 (Ramot B): Cluster 1
+Group 13 (Ramot): Cluster 0
+Group 14 (Gimel): Cluster 0
+Group 15 (Shikun Vatikim): Cluster 0

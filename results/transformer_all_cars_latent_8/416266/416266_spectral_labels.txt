@@ -1,0 +1,11 @@
+Car: 416266.pkl
+Best Spectral Clustering silhouette = 0.007, best K = 6
+Group 58 (Sderot Jerusalem): Cluster 3
+Group 59 (Neot Eshkol): Cluster 0
+Group 60 (Paran): Cluster 4
+Group 61 (Paran): Cluster 1
+Group 62 (Paran): Cluster 2
+Group 63 (Neot Rabin): Cluster 0
+Group 64 (Herut): Cluster 4
+Group 65 (HaOrgim): Cluster 0
+Group 66 (Shazar): Cluster 5

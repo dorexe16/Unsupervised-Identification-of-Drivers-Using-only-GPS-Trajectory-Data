@@ -1,0 +1,8 @@
+Car: 467836.pkl
+Best Spectral Clustering silhouette = 0.099, best K = 2
+Group 141 (Beersheba Industrial Area): Cluster 0
+Group 142 (Tet): Cluster 0
+Group 143 (Neot Lon): Cluster 0
+Group 144 (Neot Avraham): Cluster 0
+Group 145 (Neve Zeev): Cluster 1
+Group 146 (Sarona Gardens): Cluster 1

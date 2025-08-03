@@ -1,0 +1,8 @@
+Car: 454751.pkl
+Best Spectral Clustering silhouette = 0.099, best K = 2
+Group 127 (Neve Hen): Cluster 0
+Group 128 (Kiryat Rishon): Cluster 1
+Group 129 (Bitzaron & Ramat Israel): Cluster 0
+Group 130 (Kiryat Pinchas Ailon): Cluster 0
+Group 131 (South Givatayim): Cluster 1
+Group 132 (3553): Cluster 0

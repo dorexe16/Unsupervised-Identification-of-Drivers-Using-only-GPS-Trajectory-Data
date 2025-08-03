@@ -1,0 +1,7 @@
+Car: 424306.pkl
+Best Spectral Clustering silhouette = 0.077, best K = 2
+Group 66 (Shazar): Cluster 0
+Group 67 (HaTochna): Cluster 1
+Group 68 (HaPoel): Cluster 1
+Group 69 (Kiryat Remez): Cluster 1
+Group 70 (HaTochna): Cluster 1

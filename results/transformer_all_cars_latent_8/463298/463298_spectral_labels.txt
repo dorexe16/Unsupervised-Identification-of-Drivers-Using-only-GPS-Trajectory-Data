@@ -1,0 +1,5 @@
+Car: 463298.pkl
+Best Spectral Clustering silhouette = 0.013, best K = 2
+Group 136 (Ramot): Cluster 1
+Group 137 (Kiryat Sanz): Cluster 0
+Group 138 (Neve Savyon): Cluster 0

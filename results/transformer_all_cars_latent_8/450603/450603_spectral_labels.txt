@@ -1,0 +1,7 @@
+Car: 450603.pkl
+Best Spectral Clustering silhouette = 0.014, best K = 2
+Group 121 (Neve Hadar): Cluster 0
+Group 122 (Magdiel): Cluster 1
+Group 123 (unnamed road): Cluster 1
+Group 124 (Ramot Menachem): Cluster 1
+Group 125 (Ramatayim): Cluster 1

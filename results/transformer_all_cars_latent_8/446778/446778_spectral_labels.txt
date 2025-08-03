@@ -1,0 +1,8 @@
+Car: 446778.pkl
+Best Spectral Clustering silhouette = 0.060, best K = 2
+Group 102 (Ostashinsky): Cluster 1
+Group 103 (Jerusalem): Cluster 1
+Group 104 (Shomron): Cluster 0
+Group 105 (Nahal Dalton): Cluster 1
+Group 106 (Bilu): Cluster 1
+Group 107 (Ramat Siv Industrial Zone): Cluster 0

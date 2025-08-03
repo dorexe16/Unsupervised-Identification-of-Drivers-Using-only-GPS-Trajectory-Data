@@ -1,0 +1,7 @@
+Car: 408049.pkl
+Best Spectral Clustering silhouette = 0.042, best K = 2
+Group 42 (Yad Eliyahu): Cluster 0
+Group 43 (Neve Yam): Cluster 1
+Group 44 (Qiryat Krinitzi): Cluster 1
+Group 45 (Magdiel): Cluster 1
+Group 46 (Ne'ot Ariel Sharon): Cluster 1

@@ -1,0 +1,5 @@
+Car: 442134.pkl
+Best Spectral Clustering silhouette = 0.024, best K = 2
+Group 86 (HaHoshen): Cluster 0
+Group 87 (Ramat Siv Industrial Zone): Cluster 0
+Group 88 (Ramat Golda): Cluster 1

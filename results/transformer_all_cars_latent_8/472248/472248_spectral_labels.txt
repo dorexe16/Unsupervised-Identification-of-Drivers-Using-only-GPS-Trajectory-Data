@@ -1,0 +1,5 @@
+Car: 472248.pkl
+Best Spectral Clustering silhouette = 0.057, best K = 2
+Group 157 (Ne'ot Ariel Sharon): Cluster 1
+Group 158 (4623): Cluster 0
+Group 159 (Shchuna E): Cluster 1

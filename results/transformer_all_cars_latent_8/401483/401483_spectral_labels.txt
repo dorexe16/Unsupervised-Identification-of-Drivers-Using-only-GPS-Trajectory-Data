@@ -1,0 +1,5 @@
+Car: 401483.pkl
+Best Spectral Clustering silhouette = 0.016, best K = 2
+Group 40 (Atzmon): Cluster 1
+Group 41 (Merkaz HaIr): Cluster 0
+Group 42 (Yad Eliyahu): Cluster 0

@@ -1,0 +1,6 @@
+Car: 467650.pkl
+Best Spectral Clustering silhouette = 0.077, best K = 2
+Group 138 (Neve Savyon): Cluster 1
+Group 139 (Sgula): Cluster 1
+Group 140 (Kiryat Aryeh Industrial Zone): Cluster 1
+Group 141 (Beersheba Industrial Area): Cluster 0

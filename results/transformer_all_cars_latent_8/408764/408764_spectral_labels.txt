@@ -1,0 +1,9 @@
+Car: 408764.pkl
+Best Spectral Clustering silhouette = 0.093, best K = 2
+Group 48 (unnamed road): Cluster 0
+Group 49 (unnamed road): Cluster 0
+Group 50 (unnamed road): Cluster 1
+Group 51 (unnamed road): Cluster 0
+Group 52 (unnamed road): Cluster 1
+Group 53 (unnamed road): Cluster 1
+Group 54 (Hachmei Israel): Cluster 1

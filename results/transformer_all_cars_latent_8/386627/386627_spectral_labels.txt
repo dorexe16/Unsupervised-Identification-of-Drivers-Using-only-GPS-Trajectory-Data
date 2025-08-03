@@ -1,0 +1,11 @@
+Car: 386627.pkl
+Best Spectral Clustering silhouette = 0.086, best K = 2
+Group 16 (Ramot Menachem): Cluster 0
+Group 17 (Pardes Kaz): Cluster 1
+Group 18 (Ramat Siv Industrial Zone): Cluster 0
+Group 19 (Sgula): Cluster 0
+Group 20 (Shazar): Cluster 1
+Group 21 (Ramat Hadar): Cluster 1
+Group 22 (Magdiel): Cluster 0
+Group 23 (HaTeena): Cluster 1
+Group 24 (Shikun Vatikim): Cluster 0

@@ -1,0 +1,8 @@
+Car: 450593.pkl
+Best Spectral Clustering silhouette = 0.034, best K = 2
+Group 109 (Holyland-Park): Cluster 1
+Group 110 (Ramot Alef): Cluster 1
+Group 111 (Ramot Bet): Cluster 1
+Group 112 (San Simon): Cluster 1
+Group 113 (Ramot): Cluster 1
+Group 114 (Katamonim): Cluster 1

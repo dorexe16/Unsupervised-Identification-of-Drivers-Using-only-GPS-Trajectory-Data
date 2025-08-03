@@ -1,0 +1,9 @@
+Car: 387960.pkl
+Best Spectral Clustering silhouette = 0.007, best K = 2
+Group 24 (Shikun Vatikim): Cluster 1
+Group 25 (German Colony): Cluster 1
+Group 26 (Givat HaRakafot): Cluster 0
+Group 27 (HaParpar): Cluster 0
+Group 28 (Kiriat HaMemshalah Rabin): Cluster 0
+Group 29 (Sderot Weizmann): Cluster 0
+Group 30 (Magdiel): Cluster 0

@@ -1,0 +1,9 @@
+Car: 472239.pkl
+Best DBSCAN silhouette = 0.450, eps=0.3, min_samples=2
+Group 150 (Neve Yitzhak Rabin): Cluster 0
+Group 151 (Kiryat Aryeh Industrial Zone): Cluster 1
+Group 152 (Shikun Vatikim): Cluster 0
+Group 153 (Ein Sarah HaVatika): Cluster 0
+Group 154 (Ramot Menachem): Cluster 1
+Group 155 (Ramatayim): Cluster 1
+Group 156 (Ne'ot Ariel Sharon): Cluster 0

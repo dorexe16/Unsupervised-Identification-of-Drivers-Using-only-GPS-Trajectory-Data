@@ -1,0 +1,8 @@
+Car: 473235.pkl
+Best Spectral Clustering silhouette = 0.042, best K = 2
+Group 166 (Ramat Aviv haHadasha): Cluster 0
+Group 167 (Hadar Yosef): Cluster 0
+Group 168 (Lamed): Cluster 0
+Group 169 (Ramat Aviv): Cluster 1
+Group 170 (South Givatayim): Cluster 0
+Group 171 (Nevatim): Cluster 0

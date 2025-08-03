@@ -1,0 +1,5 @@
+Car: 485760.pkl
+Best Spectral Clustering silhouette = 0.061, best K = 2
+Group 172 (Neve Avivim): Cluster 0
+Group 173 (Glilot): Cluster 0
+Group 174 (Qiryat Eitanim): Cluster 1
