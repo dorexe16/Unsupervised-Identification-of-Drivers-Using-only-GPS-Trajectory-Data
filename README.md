@@ -1,6 +1,6 @@
 # Unsupervised-Identification-of-Drivers-Using-only-GPS-Trajectory-Data
 
-# Driver Identification Using GPS Data
+
 
 ## Overview
 This project focuses on driver identification using only GPS trajectory data. Unlike other approaches that incorporate multi-modal data from in-vehicle sensors or cameras, this framework aims to provide an effective solution relying solely on GPS signals. The primary goal is to cluster and identify drivers based on their driving patterns without prior knowledge of the vehicle.
@@ -66,6 +66,5 @@ The dataset consists of naturalistic GPS trajectories from multiple vehicles. Ea
 - **Dor Bar**  
 - **Irad Ben Gal**  
 
-## License
-This project is open-source under the MIT License. Feel free to contribute!
+
 
